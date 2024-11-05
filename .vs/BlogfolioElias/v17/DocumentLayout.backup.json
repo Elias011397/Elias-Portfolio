@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goode\\source\\repos\\BlogfolioElias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC416B6E-7FB7-41FA-ABDF-2DF223094E81}|BlogfolioElias.Server\\BlogfolioElias.Server.csproj|c:\\users\\goode\\source\\repos\\blogfolioelias\\blogfolioelias.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC416B6E-7FB7-41FA-ABDF-2DF223094E81}|BlogfolioElias.Server\\BlogfolioElias.Server.csproj|solutionrelative:blogfolioelias.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FFBC99-04EA-489C-89E4-85515BE83775}|blogfolioelias.client\\blogfolioelias.client.esproj|c:\\users\\goode\\source\\repos\\blogfolioelias\\blogfolioelias.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27FFBC99-04EA-489C-89E4-85515BE83775}|blogfolioelias.client\\blogfolioelias.client.esproj|solutionrelative:blogfolioelias.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Goode\\source\\repos\\BlogfolioElias\\BlogfolioElias.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogfolioElias.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Goode\\source\\repos\\BlogfolioElias\\BlogfolioElias.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogfolioElias.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T12:03:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Goode\\source\\repos\\BlogfolioElias\\blogfolioelias.client\\package.json",
+              "RelativeDocumentMoniker": "blogfolioelias.client\\package.json",
+              "ToolTip": "C:\\Users\\Goode\\source\\repos\\BlogfolioElias\\blogfolioelias.client\\package.json",
+              "RelativeToolTip": "blogfolioelias.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T11:53:51.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
